@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "legacy_uid": "f394679d-efb6-0a70-b34a-c4599b3c1453",
+  "instructors": {
+    "content": [
+      "5e8f0f98-cdfd-2d3c-7f40-ebf29943d7e0",
+      "3b0af2f5-8265-89de-303a-ea9066cfc6a5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "42ba5c4f-b2e9-df43-aa8b-2bc0566b459f",
+    "website": "6-042j-mathematics-for-computer-science-fall-2010"
+  },
+  "course_title": "Mathematics for Computer Science",
+  "course_description": "This course covers elementary discrete mathematics for computer science and engineering. It emphasizes mathematical definitions and proofs as well as applicable methods. Topics include formal logic notation, proof methods; induction, well-ordering; sets, relations; elementary graph theory; integer congruences; asymptotic notation and growth of functions; permutations and combinations, counting principles; discrete probability. Further selected topics may also be covered, such as recursive definition and structural induction; state machines and invariants; recurrences; generating functions.\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.062J",
+  "primary_course_number": "6.042J",
+  "course_image_thumbnail": {
+    "content": "7d99be95-26c6-fbf3-d31a-de21871b2ee7",
+    "website": "6-042j-mathematics-for-computer-science-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Videos"
+  ],
+  "site_uid": "0846cf4c-a33c-448d-91bc-7b06a435f16e",
+  "site_short_id": "6.042j-fall-2010",
+  "site_url_path": "courses/6-042j-mathematics-for-computer-science-fall-2010",
+  "title": "Course Metadata"
+}
