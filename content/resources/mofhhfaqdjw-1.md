@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-042j-mathematics-for-computer-science-fall-2010/26637c51d9ed01c61aa160f5f4a20e26_MOfhhFaQdjw.pdf
 file_size: 85405
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

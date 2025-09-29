@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: 'This section contains the course notes, Mathematics for Computer Science. '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
