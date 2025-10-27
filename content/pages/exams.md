@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the exams for the course, solutions, and practice
   problems.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

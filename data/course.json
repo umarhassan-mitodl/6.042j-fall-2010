@@ -35,7 +35,6 @@
     "website": "6-042j-mathematics-for-computer-science-fall-2010"
   },
   "course_title": "Mathematics for Computer Science",
-  "hide_download": true,
   "course_description": "This course covers elementary discrete mathematics for computer science and engineering. It emphasizes mathematical definitions and proofs as well as applicable methods. Topics include formal logic notation, proof methods; induction, well-ordering; sets, relations; elementary graph theory; integer congruences; asymptotic notation and growth of functions; permutations and combinations, counting principles; discrete probability. Further selected topics may also be covered, such as recursive definition and structural induction; state machines and invariants; recurrences; generating functions.\n",
   "department_numbers": [
     "6",
@@ -47,7 +46,6 @@
     "content": "7d99be95-26c6-fbf3-d31a-de21871b2ee7",
     "website": "6-042j-mathematics-for-computer-science-fall-2010"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams with Solutions",
